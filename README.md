@@ -30,4 +30,11 @@ Use case diagram for Rental cars booking application.
 
 ![Rental cars uml diagram](https://user-images.githubusercontent.com/25864801/134764531-b028d409-2fc9-43d8-887d-953858331294.jpeg)
 
+Activity Diagrams
+
+Activity diagram for car booking app
+
+![activity-diagram](https://user-images.githubusercontent.com/25864801/134765281-e2ef63e8-8c04-4e69-a1f1-5cb5ea9fb32f.jpeg)
+
+
 

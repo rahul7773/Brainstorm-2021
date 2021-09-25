@@ -15,6 +15,15 @@ Intro
 I started working on project with inception as first phase where i designed the project on miro and developed a user case diagram also
 which describes actually how the application is going to interact with customers , administrator and the business owner.
 
+Description
+
+With growing need of cars day by day,  the demand for rental cars is going to have high future growth and scope. Its not always feasible to go everywhere in own car due to many possible circumstances. People in these cases have no choice but to book a car as taxi or rent a car for some hours or few days.
+Suppose lets take an example a person went to some city for office work and before returning he develops desire to drive back way in car to enjoy the weather and road drive. 
+To him a sustainable and easy way to book a good car using a good application will prove a great help it wont be feasible to bring own car from home.
+Like this there arise many circumstances where people are relying more and more on rental cars or cabs nowadays.
+Keeping this in view I planned this project to facilitate easy booking of cars by users with the help of an efficient and fast mobile application which is easy to use by all sorts of people.
+The use case diagram(diagram-1) given below shows how the system will work to provide the service to users.
+
 VERSION CONTROL
 
 I am using public repository here to give brief model of the project. You can watch new developments on my miro board here- https://miro.com/app/board/o9J_lwDvtnc=/

@@ -26,6 +26,7 @@ The miro board link has been provided above. Below use case diagrams are given t
 
 UML Diagrams
 
+Use case diagram for Rental cars booking application.
 ![Rental cars uml diagram](https://user-images.githubusercontent.com/25864801/134764531-b028d409-2fc9-43d8-887d-953858331294.jpeg)
 
 

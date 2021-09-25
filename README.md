@@ -37,4 +37,6 @@ Activity diagram for car booking app
 ![activity-diagram](https://user-images.githubusercontent.com/25864801/134765281-e2ef63e8-8c04-4e69-a1f1-5cb5ea9fb32f.jpeg)
 
 
+Images
 
+All images related to the project have been uploaded to the images folder in reppository. New model views or diagrams related to the project will also be up published to the images folder and readme.md also.

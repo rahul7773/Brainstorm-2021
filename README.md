@@ -12,4 +12,7 @@ Here is the design and plan for my project cars rental247 mobile application.
 
 Intro
 
+I started working on project with inception as first phase where i designed the project on miro and developed a user case diagram also
+which describes actually how the application is going to interact with customers , administrator and the business owner.
+
 

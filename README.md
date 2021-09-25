@@ -15,4 +15,7 @@ Intro
 I started working on project with inception as first phase where i designed the project on miro and developed a user case diagram also
 which describes actually how the application is going to interact with customers , administrator and the business owner.
 
+VERSION CONTROL
+
+I am using public repository here to give brief model of the project. You can watch new developments on my miro board here- https://miro.com/app/board/o9J_lwDvtnc=/
 
